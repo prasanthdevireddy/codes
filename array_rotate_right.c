@@ -14,7 +14,7 @@ int main(){
    
    //     array_rotate_right(array);
 	
-	for(k=0;k<=10;k++)
+	/*for(k=0;k<=10;k++)
 		array[k+1] = array[k];
 		printf("rotated values are %d\n", array[k+1]);
 	}
@@ -23,7 +23,7 @@ int main(){
 	}*/
 
 
-/*void array_rotate_right(int array []){
+void array_rotate_right(int array []){
 
 	int k,l;
 
@@ -31,5 +31,5 @@ int main(){
 		array[k+1] = array[k];
 		printf("value of K is %d,%d\n", array[k],array[k+1]);
 	}
-}*/
+}
 		 
